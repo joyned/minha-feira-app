@@ -1,0 +1,7 @@
+{
+  "name": "minha-feira-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
